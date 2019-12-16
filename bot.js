@@ -10,4 +10,4 @@ channel.send(`gegegedgeqg`);
 }, 30)
 })
 
-client.login(process.env.BOT_TOKEN);
+client.login(NTQ5MzQ0NjUwMzQ4MDY4ODY2.XewZkw.o1bwXn_IzVcd8BecNyDoP1TwRxs);
